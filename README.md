@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/291f873f-3b1e-4499-8eb5-7ffba52bf6bc
+
 # Cupid's Mission
 
 A Valentine's Day themed game where you play as Cupid, shooting arrows to match couples while avoiding collisions.
@@ -7,7 +9,7 @@ A Valentine's Day themed game where you play as Cupid, shooting arrows to match 
 Simply clone this repository and open `index.html` in a web browser to start playing:
 
 ```bash
-git clone https://github.com/yourusername/cupids-mission.git
+git clone https://github.com/becknadir/cupid_attacks.git
 cd cupids-mission
 # Open index.html in your browser
 ```
