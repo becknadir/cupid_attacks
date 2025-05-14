@@ -10,7 +10,7 @@ Simply clone this repository and open `index.html` in a web browser to start pla
 
 ```bash
 git clone https://github.com/becknadir/cupid_attacks.git
-cd cupids-mission
+cd cupid_attacks
 # Open index.html in your browser
 ```
 
